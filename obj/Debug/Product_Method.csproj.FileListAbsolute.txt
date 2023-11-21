@@ -1,0 +1,14 @@
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\Product_Method\Product_Method\bin\Debug\Product_Method.exe.config
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\Product_Method\Product_Method\bin\Debug\Product_Method.exe
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\Product_Method\Product_Method\bin\Debug\Product_Method.pdb
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\Product_Method\Product_Method\obj\Debug\Product_Method.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\Product_Method\Product_Method\obj\Debug\Product_Method.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\Product_Method\Product_Method\obj\Debug\Product_Method.exe
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\Product_Method\Product_Method\obj\Debug\Product_Method.pdb
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-2\Product_Method\Product_Method\bin\Debug\Product_Method.exe.config
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-2\Product_Method\Product_Method\bin\Debug\Product_Method.exe
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-2\Product_Method\Product_Method\bin\Debug\Product_Method.pdb
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-2\Product_Method\Product_Method\obj\Debug\Product_Method.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-2\Product_Method\Product_Method\obj\Debug\Product_Method.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-2\Product_Method\Product_Method\obj\Debug\Product_Method.exe
+C:\mphasis-B2\Day-12\Assignment-17(21-Nov)\PART-2\Product_Method\Product_Method\obj\Debug\Product_Method.pdb
